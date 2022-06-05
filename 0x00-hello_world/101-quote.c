@@ -1,7 +1,8 @@
 #include <unistd.h>
 /**
  * main - prints a string
- * Return 1 (Success)
+ *
+ * Return: 1 (Success)
  */
 int main(void)
 {

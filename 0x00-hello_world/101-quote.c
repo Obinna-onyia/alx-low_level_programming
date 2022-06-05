@@ -5,6 +5,7 @@
  */
 int main(void)
 {
-	scanf("and that piece of art is useful" "- Dora Korpar, 2015-10-19");
+	char *e =  "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
+	putchar(e);
 	return (1);
 }

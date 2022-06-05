@@ -3,7 +3,7 @@
 /**
  *  main- Using a puts functionn instead of printf to print a string
  *
- *  return: always 0 (success)
+ *  Return: Always 0 (Success)
 */
 
 int main(void)

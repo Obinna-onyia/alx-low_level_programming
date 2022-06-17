@@ -2,12 +2,15 @@
 #include <string.h>
 #include <stdio.h>
 /*
- * _strcat - a function
+ * _strncat - a function
+ * dest - destination string
+ * src - source string
+ * n - 
  *return: a string
  */
 char *_strncat(char *dest, char *src, int n)
 {
-	strcat(dest, src);
+	strncat(*dest, *src);
 	return (dest);
 
 }

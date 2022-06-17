@@ -2,7 +2,8 @@
 #include "main.h"
 /*
  **_strcat - function to concatenate strings
-
+* @dest:destination value
+* @src: source value
  *return: a string
  */
 
